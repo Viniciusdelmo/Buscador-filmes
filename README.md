@@ -18,6 +18,10 @@ O presente estudo tem por obejtivo a criação de aplicação WEB que direciona 
 1. Melhorar responsividade 
 2. Gerar histórico de pesquisas
     
+## 👨‍💻 Tecnologias utilizadas:
+* HTML5
+* CSS3
+* Javascript
 
 ## 🔗Link de acesso: **https://consulta-filme-vinicius-delmo.netlify.app/**
 #### 🔄Última Atualização: 13/09/2022
